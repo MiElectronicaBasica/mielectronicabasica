@@ -14,3 +14,6 @@ Untitled-Sketch-2_1_esquemático.png
 Los circuitos van complicándose y la corriente se reparte por las diferentes ramas de estos.
 En este sencillo ejemplo vemos que por las resistencias R2 y R3 circula la misma corriente, y que la suma de las corrientes I2 e I1 es igual a la que sale de la pila, y que retorna a la misma, esta suma es igual que I3+ I1.
 Como puede observarse, en el punto señalado con la flecha confluyen las dos corrientes, que se suman, por ir en el mismo sentido, de tal forma que la corriente I = I1 + I2
+Untitled-Sketch-2_2_esquemático.png
+Antes de comenzar a realizar cálculos hay que conocer las unidades de medida. La tensión se mide en voltios, la corriente en amperios y la resistencia en ohmios. Estas unidades se utilizarán al aplicar la Ley de Ohm.
+Si a una resistencia de 1 ohmio se le aplica una tensión de 1 voltio, circulara por ella la corriente de 1 amperio. Estas unidades se representan así: Amperio (A), Voltio (V) y Ohmio (Ω2).
