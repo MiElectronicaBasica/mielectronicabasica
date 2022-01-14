@@ -35,3 +35,7 @@ Si a una resistencia de 1 ohmio se le aplica una tensión de 1 voltio, circulara
 | ------------- |:-------------:|:-----:|:-----:|
 | **UNIDAD**|voltio|amperio|ohmio|
 | **SÍMBOLO**|V|A|Ω|
+
+Uno de los primeros impactos visuales que se reciben al abrir por primera vez un equipo electrónico, es el colorido de las resistencias, éstas tienen normalmente forma cilíndrica, y su valor óhmico está marcado con unas llamativas bandas de color.
+
+El código más utilizado es el de cuatro colores. De cada una de las dos primeras bandas se deduce una cifra, la tercera banda es el multiplicador. Y la cuarta, que es un poco más alejada de las otras tres, indica la tolerancia, que para resistencias de 5% es dorada y para el 2% roja.
