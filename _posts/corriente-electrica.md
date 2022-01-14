@@ -36,6 +36,10 @@ Si a una resistencia de 1 ohmio se le aplica una tensión de 1 voltio, circulara
 | **UNIDAD**|voltio|amperio|ohmio|
 | **SÍMBOLO**|V|A|Ω|
 
+![Código de colores](/images/resistencia_electrica_1.png)
+
 Uno de los primeros impactos visuales que se reciben al abrir por primera vez un equipo electrónico, es el colorido de las resistencias, éstas tienen normalmente forma cilíndrica, y su valor óhmico está marcado con unas llamativas bandas de color.
 
 El código más utilizado es el de cuatro colores. De cada una de las dos primeras bandas se deduce una cifra, la tercera banda es el multiplicador. Y la cuarta, que es un poco más alejada de las otras tres, indica la tolerancia, que para resistencias de 5% es dorada y para el 2% roja.
+
+Este es el código de colores de cuatro bandas utilizado habitualmente en electrónica. Como regla nemotécnica es conveniente recordar que del 0 al 6, el color correspondiente al multiplicador indica el número de ceros que se añaden a las dos primeras cifras. Por ejemplo, si la banda multiplicadora es de color naranja hay que añadir tres ceros a las dos primeras cifras, que es lo mismo que se hace para multiplicar un número entero por mil.
