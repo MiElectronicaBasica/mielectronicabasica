@@ -10,3 +10,7 @@ Si conectamos una batería de automóvil a una lámpara de 12V, veremos que la l
 Los estudios sobre los efectos de la corriente eléctrica se realizan sobre esquemas eléctricos, que tal como se deduce de su nombre son una representación esquemática de un circuito real.
 
 Volviendo al circuito de la batería que antes dibujábamos realmente, los cables se representan por líneas continuas y son conexiones ideales, la batería se simboliza con dos trazos, uno más grueso que otro para señalar la polaridad, aunque a veces también se indica con los símbolos "+"y"-". La intensidad de la corriente se representa por una flecha y la letra I.
+Untitled-Sketch-2_esquemático.png
+La relación entre la corriente, la tensión y la resistencia, sigue la denominada Ley de Ohm. Para que circule corriente a través de una resistencia hay que aplicar en sus extremos una tensión. La corriente pasará por un circuito si éste está cerrado y, además, tiene que haber algún elemento que genera una tensión, normalmente una batería o generador.
+
+El conocimiento de esta ley y saber cómo usarla es el primer paso para entrar en el mundo de la electricidad y de la electrónica.
